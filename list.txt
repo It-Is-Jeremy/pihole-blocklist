@@ -1,0 +1,5 @@
+#Simple blocklist by your boy
+
+#Ads
+tpc.googlesyndication.com
+img.connatix.com

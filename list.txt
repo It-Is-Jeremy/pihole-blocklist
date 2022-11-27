@@ -4,3 +4,4 @@
 tpc.googlesyndication.com
 img.connatix.com
 300219669077cff6c6a9262996c49.safeframe.googlesyndication.com
+pagead-googlehosted.l.google.com
